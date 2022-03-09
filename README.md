@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
-<li> 👀 I’m persuing my interested in Software Development. </li>
-<li> 🌱 I’m currently learning C#, ASP.NET Core and associated libraries to build a complete web application. </li>
-<li> 💞️ I’m looking to collaborate on e-commerce and social media apps </li>
+<p> 👀 I’m persuing my interested in Software Development.
+<br> 💞️ I’m looking to collaborate on a large scale industry grade software with a large user base.
+<br> 🤝 I'm currently working as a Business Analyst Executive at Daraz for over 3 years. Working with data is so cool but development is what I believe suits me better. Along the way in this journey I build up a pretty good relationship with Python and it's sea of libraries.
+<br> 🌱 I’m currently learning C#, ASP.NET Core and associated libraries to build a complete web application.
+<br> 👍 I'm comfortable with both client side and server side development. I've worked with Node and Python for server side development and React for client side development. I'm proficient in building RESTful web services. </p>
+
+<h3 align="center">My Tech Stack</h3>
+<p> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-ece&label=Profile%20views&color=0e75b6&style=flat" alt="asif-ece" /> </p>
 
