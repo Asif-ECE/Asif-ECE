@@ -7,11 +7,11 @@
 <br> 👍 I'm comfortable with both client side and server side development. I've worked with Node and Python for server side development and React for client side development. I'm proficient in building RESTful web services. </p>
 
 <h3 align="center">My Tech Stack</h3>
-<p> Languages:<br>--> Python, JavaScript, C#
-<br> Frameworks:<br>--> django, django-rest-framework, react, node, asp.net core
-<br> Databases:<br>--> PostgreSQL, MySQL, MongoDB
-<br> Testing API:<br>--> Postman
-<br> DevOps and Deployment:<br>--> Docker, Kubernetes, Nginx</p>
+<p> Languages: Python, JavaScript and C#
+<br> Frameworks: Django, React, Node, Asp.Net Core
+<br> Databases: PostgreSQL, MySQL
+<br> Cloud/Distributed Computing: AWS, PySpark, Airflow
+<br> DevOps and Deployment: Docker, Kubernetes, Nginx, Gitlab CI, Github Actions </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-ece&label=Profile%20views&color=0e75b6&style=flat" alt="asif-ece" /> </p>
 
