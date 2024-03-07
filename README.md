@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
-<p> 👀 I’m persuing my interested in Software Development.
-<br> 💞️ I’m looking to collaborate on a large scale industry grade software with a large user base.
-<br> 🤝 I'm currently working as a Business Analyst Executive at Daraz for over 3 years. Working with data is so cool but development is what I believe suits me better. Along the way in this journey I build up a pretty good relationship with Python and it's sea of libraries.
-<br> 🌱 I’m currently learning C#, ASP.NET Core and associated libraries to build a complete web application.
-<br> 👍 I'm comfortable with both client side and server side development. I've worked with Node and Python for server side development and React for client side development. I'm proficient in building RESTful web services. </p>
+<h3 align="center">Passionate Full-Stack Developer from Bangladesh 🚀</h3>
+
+👀 Exploring the realms of Software Development.
+
+💞️ Seeking collaboration on large-scale, industry-grade software projects with a substantial user base.
+
+🤝 Currently leveraging 5+ years of experience as a Data Analyst at Daraz. While data is cool, my heart lies in development. I've cultivated a strong bond with Python and its vast libraries.
+
+👍 Proficient in both client-side and server-side development. Worked with Node and Python for server-side, and React for client-side. Comfortable building RESTful web services.
+
+Let's code something amazing together! 🚀
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```python
@@ -21,8 +27,8 @@ about_section = {
     },
     "current_role": "Data Analyst",
     "passionate_role": "Software Engineer",
-    "looking_for_role": "I am currently working as a Data Analyst, but my passion lies in software engineering. I am actively seeking opportunities in the software engineering field to channel my enthusiasm and skills.",
-    "learning_focus": "I am currently learning the DevOps side of things to broaden my skill set and stay updated with industry trends.",
+    "looking_for_roles": ["Software Engineer", "DevOps Engineer", "Cloud Engineer"],
+    "learning_focus": "learning the DevOps side of things to broaden my skill set and stay updated with industry trends.",
     "problem_solver": "I am a dedicated problem solver and enjoy tackling coding challenges. I solve LeetCode problems daily as a hobby.",
     "fun_fact": "There are two ways to write error-free programs; only the third one works"
 }
