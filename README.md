@@ -6,12 +6,27 @@
 <br> 🌱 I’m currently learning C#, ASP.NET Core and associated libraries to build a complete web application.
 <br> 👍 I'm comfortable with both client side and server side development. I've worked with Node and Python for server side development and React for client side development. I'm proficient in building RESTful web services. </p>
 
-<h3 align="center">My Tech Stack</h3>
-<p> Languages: Python, JavaScript and C#
-<br> Frameworks: Django, React, Node, Asp.Net Core
-<br> Databases: PostgreSQL, MySQL
-<br> Cloud/Distributed Computing: AWS, PySpark, Airflow
-<br> DevOps and Deployment: Docker, Kubernetes, Nginx, Gitlab CI, Github Actions </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+```python
+about_section = {
+    "name": "Md. Asif Mostafa",
+    "pronouns": "He" OR "Him",
+    "technical_skills": {
+        "programming_languages": ["Python", "JavaScript", "Java", "C#"],
+        "fontend": ["React.js", "Next.js"],
+        "backend": ["Django", "Node.js", "Express.js", "DotNetCore"],
+        "databases": ["MySQL", "PostgreSQL"],
+        "cloud_distributed_computing": ["AWS", "PySpark", "Kafka", "Airflow"],
+        "devOps": ["GitHub Actions", "GitLab CI", "Docker", "Nginx"]
+    },
+    "current_role": "Data Analyst",
+    "passionate_role": "Software Engineer",
+    "looking_for_role": "I am currently working as a Data Analyst, but my passion lies in software engineering. I am actively seeking opportunities in the software engineering field to channel my enthusiasm and skills.",
+    "learning_focus": "I am currently learning the DevOps side of things to broaden my skill set and stay updated with industry trends.",
+    "problem_solver": "I am a dedicated problem solver and enjoy tackling coding challenges. I solve LeetCode problems daily as a hobby.",
+    "fun_fact": "There are two ways to write error-free programs; only the third one works"
+}
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-ece&label=Profile%20views&color=0e75b6&style=flat" alt="asif-ece" /> </p>
 
