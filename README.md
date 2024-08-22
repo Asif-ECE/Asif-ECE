@@ -3,7 +3,7 @@
 
 👨‍💻 Versatile Software Developer with a solid foundation in both backend and frontend technologies. My journey in tech has been enriched by a strong background in data analytics, which adds a unique edge to my development approach. Proficient in Python, Django, JavaScript, React, and Node, I love building scalable, high-performance applications that are as data-driven as they are user-centric.
 
-🚀 Currently a Backend Developer at Ek Takar Khobor, where I’m responsible for designing and implementing backend services for a News OTT Platform. Whether it's architecting cloud solutions on AWS, managing CI/CD pipelines, or optimizing RESTful APIs, I bring a holistic, data-informed perspective to every project.
+🚀 Currently a Backend Developer, where I’m responsible for designing and implementing backend services for a News OTT Platform. Whether it's architecting cloud solutions on AWS, managing CI/CD pipelines, or optimizing RESTful APIs, I bring a holistic, data-informed perspective to every project.
 
 📊 Data Analytics isn’t just a past chapter; it’s a valuable lens I apply to development. My experience as a Data Analyst at Daraz (Alibaba Group) has honed my ability to optimize business processes, making me adept at not only building software but also ensuring it delivers real, measurable value.
 
