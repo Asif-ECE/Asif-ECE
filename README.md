@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">Passionate Full-Stack Developer from Bangladesh 🚀</h3>
 
-👀 Exploring the realms of Software Development.
+👨‍💻 Versatile Software Developer with a solid foundation in both backend and frontend technologies. My journey in tech has been enriched by a strong background in data analytics, which adds a unique edge to my development approach. Proficient in Python, Django, JavaScript, React, and Node, I love building scalable, high-performance applications that are as data-driven as they are user-centric.
 
-💞️ Seeking collaboration on large-scale, industry-grade software projects with a substantial user base.
+🚀 Currently a Backend Developer at Ek Takar Khobor, where I’m responsible for designing and implementing backend services for a News OTT Platform. Whether it's architecting cloud solutions on AWS, managing CI/CD pipelines, or optimizing RESTful APIs, I bring a holistic, data-informed perspective to every project.
 
-🤝 Currently leveraging 5+ years of experience as a Data Analyst at Daraz. While data is cool, my heart lies in development. I've cultivated a strong bond with Python and its vast libraries.
+📊 Data Analytics isn’t just a past chapter; it’s a valuable lens I apply to development. My experience as a Data Analyst at Daraz (Alibaba Group) has honed my ability to optimize business processes, making me adept at not only building software but also ensuring it delivers real, measurable value.
 
-👍 Proficient in both client-side and server-side development. Worked with Node and Python for server-side, and React for client-side. Comfortable building RESTful web services.
-
-Let's code something amazing together! 🚀
+🤝 Open to collaboration on large-scale, industry-grade projects. Let’s harness the power of both code and data to create something truly impactful!
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
